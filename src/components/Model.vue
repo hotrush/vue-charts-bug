@@ -45,7 +45,7 @@
         },
         methods: {
             loadData() {
-                this.$http.get('/data.json', {})
+                this.$http.get('data.json', {})
                     .then(function(response) {
 
                         var pricesChartData = _.merge({}, this.pricesChart);
