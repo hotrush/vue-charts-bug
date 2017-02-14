@@ -3,6 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <prices-chart :chartData="pricesChart" :options="options"></prices-chart>
+                <prices-chart :chartData="pricesChart" :options="options" v-if="pricesChart.labels.length > 0"></prices-chart>
             </div>
         </div>
     </div>

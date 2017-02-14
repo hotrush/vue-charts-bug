@@ -183,6 +183,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
 
 
 /* harmony default export */ __webpack_exports__["default"] = {
@@ -60715,7 +60716,12 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       "chartData": _vm.pricesChart,
       "options": _vm.options
     }
-  })], 1)])])
+  }), _vm._v(" "), (_vm.pricesChart.labels.length > 0) ? _c('prices-chart', {
+    attrs: {
+      "chartData": _vm.pricesChart,
+      "options": _vm.options
+    }
+  }) : _vm._e()], 1)])])
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 if (false) {
