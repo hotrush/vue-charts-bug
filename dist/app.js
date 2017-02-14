@@ -216,7 +216,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
     methods: {
         loadData: function loadData() {
-            this.$http.get('/data.json', {}).then(function (response) {
+            this.$http.get('https://hotrush.github.io/vue-charts-bug/data.json', {}).then(function (response) {
 
                 var pricesChartData = _.merge({}, this.pricesChart);
                 pricesChartData.labels = _.keys(response.body.prices_chart);
