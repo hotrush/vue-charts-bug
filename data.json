@@ -1,0 +1,58 @@
+{
+  "prices_chart": {
+    "2017-01-05": {
+      "max_price_per_day": 19500,
+      "min_price_per_day": 100,
+      "avg_price_per_day": 4749.1017672151,
+      "ads_count": 1641
+    },
+    "2017-01-16": {
+      "max_price_per_day": 12000,
+      "min_price_per_day": 450,
+      "avg_price_per_day": 4325.2222222222,
+      "ads_count": 81
+    },
+    "2017-01-17": {
+      "max_price_per_day": 5800,
+      "min_price_per_day": 555,
+      "avg_price_per_day": 2918.6363636364,
+      "ads_count": 11
+    },
+    "2017-01-19": {
+      "max_price_per_day": 18400,
+      "min_price_per_day": 300,
+      "avg_price_per_day": 5024.6045627376,
+      "ads_count": 263
+    },
+    "2017-01-20": {
+      "max_price_per_day": 19500,
+      "min_price_per_day": 100,
+      "avg_price_per_day": 4953.7074626866,
+      "ads_count": 1005
+    },
+    "2017-01-21": {
+      "max_price_per_day": 15500,
+      "min_price_per_day": 500,
+      "avg_price_per_day": 5406.7,
+      "ads_count": 100
+    },
+    "2017-01-22": {
+      "max_price_per_day": 14350,
+      "min_price_per_day": 200,
+      "avg_price_per_day": 4148.6311728395,
+      "ads_count": 648
+    },
+    "2017-01-23": {
+      "max_price_per_day": 15500,
+      "min_price_per_day": 200,
+      "avg_price_per_day": 4337.4202702703,
+      "ads_count": 740
+    },
+    "2017-01-25": {
+      "max_price_per_day": 15500,
+      "min_price_per_day": 200,
+      "avg_price_per_day": 4357.6792963464,
+      "ads_count": 739
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "avtostat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack --progress --hide-modules",
+    "watch": "cross-env NODE_ENV=development webpack --watch --progress --hide-modules",
+    "hmr": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
+    "production": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chart.js": "^2.5.0",
+    "laravel-mix": "^0.7.5",
+    "lodash": "^4.17.4",
+    "vue": "^2.1.10",
+    "vue-chartjs": "^2.3.5",
+    "vue-resource": "^1.2.0"
+  }
+}
